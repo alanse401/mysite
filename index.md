@@ -16,5 +16,5 @@ Kirby (カービィ Kābī?) is a fictional character and the titular protagonis
 
 ### Links
 
-* [Google](www.google.com)
+* [Google](http://www.google.com)
 - - -
